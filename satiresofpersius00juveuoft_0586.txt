@@ -1,0 +1,333 @@
+80
+
+vicina 4, 7. 6, 509. 14, 143.
+15, 76
+
+vicinarumque 6, 6
+
+vicinia 14, 154
+
+vicino 15, 154
+
+vicinorum 15, 36
+
+vicinos 6, 414
+
+vicinum 1, 8. 6, 32
+
+vicinus 6, 152. 13,185. 16,
+
+vicit 2, 143. 4, 136. 14,
+
+vicorum 3, 237
+
+vicos 6, 78
+
+victa 10, 277
+
+vieta-que 10, 135
+
+vieti 6, 661
+
+victima 12, 113
+
+vietis 8, 99. 11, 198. 12,
+
+victo 10, 286
+
+victor 2, 73
+
+victori 7, 243
+
+victoria 1, 115. 8, 59 63.
+15, 47
+
+victoris 2, 162
+
+victrix 1, 50. 13, 20. 15, 81
+
+vietum 14, 273
+
+victumque 6,170 293. 7, 9
+
+victuro 9, 58
+
+victurus 6, 567
+
+victus 9, 2. 10, 84
+
+vicus 2, 8. 6, 656
+
+videant 10, 87
+
+videas 2, 76. 13, 170 182.
+14, 32
+
+videbat 2, 100
+
+videbis 1, 91. 3, 177. 5, 25.
+6, 503. 14, 215
+
+videmus 4, 22. 13, 8
+
+videndus 6, 601
+
+videntur 11, 121
+
+video 6, 395. 13, 118
+
+videor 14, 322
+
+videres 11, 197
+
+videret 13, 56. 15,172
+
+videri 6, 113 445 464
+
+videris 5, 161. 9, 20. 13,
+
+viderit 9, 36
+
+viderunt 3,314. 6, 23. 11,
+
+vides 3, 249. 8, 90. 11, 9.
+12, 126. 13, 135
+
+videt 6, 408. 8, 149. 10,
+252 290. 13, 221
+
+videtur 3, 95. 6, 161 176
+201 505 580. 14, 142.
+16, 58
+
+vidi 7, 13. 16, 30
+
+vidimus 3, 6
+
+VERBAL INDEX
+
+vidisse 14, 283
+
+vidisset 10, 36
+
+vidisti 7, 14
+
+vidistis 7, 205
+
+vidit 4, 92. 6, 104 215
+247. 1ο, 265. 14, 311.
+16, 30
+
+vidua 6, 141
+
+vidua? 4, 4
+
+viduam 6, 405
+
+viduas 8, 78
+
+vigeant 10, 240
+
+vigila 14, 192
+
+vigilando 3, 232
+
+vigilanti 1, 57
+
+vigilantibus 3, 129
+
+vigilare 10, 162. 14, 305
+
+vigilat 8, 236
+
+vigilataque 7, 27
+
+vigilem 14, 260
+
+vigiles 3, 275
+
+vigili 13, 229
+
+viginti 9, 140
+
+vile 11, 97
+
+viles 13, 142
+
+vilibus 5, 146
+
+vilis 5, 4. 7, 174. 14, 269
+
+vi11a 14, 141
+
+villa 4, 112
+
+villarum 14, 89
+
+villas 1, 94. 7, 133. 10,
+225. 14, 95 275
+
+villica 11, 69
+
+villicus 3, 195 228. 4, 77
+
+vimine 3, 71
+
+vina 5, 51. 11, 159
+
+vineant 1, 110
+
+vincebat 14, 91
+
+vincens 14, 90
+
+vincere 13,112
+
+vinceris 14, 213
+
+vincis 8, 54
+
+vincitur 10, 159. 14, 145
+
+vincla 13, 186
+
+vinclis 3, 310
+
+vincuntur 6, 438
+
+vindex 10, 165
+
+vindice 4, 152. 8, 222
+
+vindicta 13, 180. 16, 22
+
+vindicta 13, 191
+
+vini 7, 236. 10, 203. 11,
+
+vino 6, 386
+
+vinoque 5, 49. 6, 315
+
+vinosus 9, 113
+
+vinum 5, 24. 7, 97 121
+
+vinxerat 10, 182
+
+violae 12, 90
+
+violare 15, 9
+
+violarent 3, 20
+
+violatae 13, 6
+
+violati 13, 219
+
+violato 6, 537 ,
+
+violatus 11, 116
+
+violaverit 15, 84
+
+violentius 4, 86. 8, 37
+
+vipera 6, 641
+
+vir 2, 129. 6, 53 254
+
+virentem 12, 85
+
+vires 3, 180. 6,253
+
+virga 3, 317. 8, 7 153
+
+virgae 7, 210
+
+virgamque 14, 63
+
+virgas 8, 23 136. 11, 67
+
+Virgilio 7, 69
+
+Virgilium 6, 435
+
+virgine 6, 506
+
+Virginia 10, 294
+
+virginis 15, 139
+
+virgo 3, 110. 8, 265. 9, 72.
+14, 29
+
+virguncula 13, 40
+
+viri 6, 360 508 654. 9,85.
+13, 12
+
+viribus 10, 10 209. 12, 42.
+15,104
+
+viridem 5,143. 9, 50
+
+virides 6, 228 458. 7, 118.
+14, 147
+
+viridi 3, 19
+
+viridis 11, 196
+
+viris 6, 130 455
+
+viro 1, 70. 2, 129. 4, 136,
+6,112 224 270 389 575
+
+virorum 6, 399. 15, 48
+
+viros 2, 45. 6, 329. 10, 49
+223 304
+
+Virro 5, 39 43 128 149.
+
+Virronem 5, 156
+
+Virroni 5, 99
+
+Virronibus 5, 149
+
+Virronis 5, 134
+
+virtus 1, 115. 6, 323. 8,
+
+virtute 2, 20. 4, 2. 15,114
+
+virtutem 10, 141 364
+
+virtutibus 3, 164. 6, 168
+
+virtutis 10,141. 14, 109
+
+virum 6, 116. 13, 64
+
+vis, verb, 1, 74. 2, 69. 5,
+74 135 138. 7, 165. 10,
+94 346. 14, 253
+
+vis, noun, 6, 440
+
+visa 6, 538. 14, 164. 15,
+
+visae 4, 114
+
+visam 11, 152
+
+visamque 6, 2
+
+viscantur 6, 463
+
+viscera 3, 44 72. 4, 111. 9,
+
+Ai— —a-
+

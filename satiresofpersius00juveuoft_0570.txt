@@ -1,0 +1,337 @@
+64
+
+properantem 3, 319
+
+properantibus 3, 243
+
+properantis 14, 178
+
+properare 4, 134. 6, 330
+
+properat 4, 59. 6, 488. 14,
+78
+
+propinat 5, 127
+
+propinquas l, 71
+
+propinqui 14, 236
+
+propinquis 8, 219. 13, 207
+
+propinquo 8, 72. 14, 6
+
+propior 6, 510
+
+proponere 4, 46
+
+proponimus 3, 24
+
+propositi 5, 1
+
+propositum 9, 21. 10, 325
+
+proposui 8, 125
+
+propria 14, 80
+
+propter 1, 141. 5, 19 76.
+6,104 469.7,39.8,41
+84. 9, 87 118. 10, 55.
+11, 150. 12, 50 51. 14,
+22 274
+
+prora 5, 89.10,186.12,69
+
+prorsus 6, 249
+
+proseucha 3, 296
+
+prosit 4, 36
+
+prospera 10, 97. 12, 63.16,2
+
+prospiciunt 6, 360
+
+prostantis 1, 47
+
+prostare 3, 65
+
+prostat 9, 24
+
+prostitit 6, 123
+
+prostitui 8, 226
+
+protegere 11, 33. 15, 155
+
+protegit 8, 250
+
+protenus 3, 140. 4, 48. 7,
+165. 11, 188. 13, 176.
+14,123.16,27
+
+Protogenes 3, 120
+
+protuleratque 10, 30
+
+protulit 6, ‘23
+
+provehit 16, 57
+
+provida 10, 283
+
+provincia l, 50. 4, 26. 5,
+97. 8, 87
+
+provocat 6, 321 376
+
+provocet 1, 24
+
+proxima 5,96. 6, 529. 10,
+126.13,228
+
+proximus 4, 94. 6, 290. 9,
+
+prudens 4, 113
+
+prudentia 10, 48 365. 12,
+32.14‚315
+
+prudentissima 3, 86
+
+pruinis 4, 56, 5, 50
+
+pruna 3, 83
+
+prurigo 6, 327
+
+prurire 11, 163
+
+prurit 6, 578
+
+VERBALINDEX
+
+psaltria 6, 337
+
+Psecas 6, 491 494
+
+ψυχή 6, 195
+
+pube 8, 256
+
+publica 6, 335 587. 7, 53.
+10,284
+
+publicus 10, 41 312
+
+purleat 2, 42. 11, 202
+
+pudendis 8, 139 183
+
+pudet 3, 168 321. 5, 1. 12,
+8.l4,185
+
+pudicam 6, 137
+
+pudici 6, 49
+
+Pudicitiae 6, 14308.10,298
+
+Pudicitiam 6, 1
+
+pudicus 3, 111. 6, 193
+
+pudor 2, 110. 3, 60 154.
+10, 329. 14, 178
+
+pudorem 2, 39. 6, 252 357.
+11,55.16,34
+
+pudori 8, 83
+
+pudoris 11, 154
+
+puella 6, 258
+
+puellae 2, 59. 3, 160. 4., 35
+114.6, 494. Ι 1, 164 200.
+13, 80. 14, 45 209
+
+puellam 6, 354. 8, 33. 9, 74
+
+puellares 15, 137
+
+puellas 1, 84. 3, 65. 4, 36.
+6,127.9‚128
+
+puellis 6, 191. 10, 289
+
+puer 1, 61. 5, 61. 7, 69. 9,
+64.10,216.11,146154.
+13,4356.14,45192
+
+9110112152. 3, 156. 6, 173
+404 552. 7, 32 226. 8,
+234. 9,41. 10,353. 12,
+83.14,48180
+
+pueriles 15, 59
+
+pueris 2, 168. 6, 111 599.
+8,167.10,167289.12,
+117. 14,3 208
+
+puerisque 6, 639
+
+puero l,54. 5,164.10,302.
+11, 59.13, 65. 14, 1147
+
+puerorum 7, 240. 9, 68
+
+pueros 3, 264. 4, 122. 5,
+141. 6,151272. 7, 133
+177.14,22s
+
+puerpera 6, 594
+
+puerum 9, 46
+
+pugillares 11, 156
+
+pugpa 5, 29
+
+pugnacis 5, 57
+
+pugnam 7, 173. 8, 132.15,
+74
+
+pugnamus 16, 47
+
+pugnantem 8, 201
+
+pugnanti 12, 4
+
+pugnare 8, 210
+
+pugnas 4, 121
+
+pugnis 3, 300. 13, 127
+
+pugnos 15, 58. 16, 30
+
+pulcer 7, 190
+
+pulcerrima 11, 56. 12, 38
+
+pulcra 10, 345
+
+pulcra 10, 292
+
+pulcrior 10, 196
+
+pulcris l, 137
+
+pulcro 1, 127. 16, 57
+
+pulcrum 9, 47
+
+pulcrumque 4, 54
+
+pullati 3, 213
+
+puu16,616.13‚142
+
+pullorum 6, 551
+
+pullos 14, 74
+
+pullulet 6, 363
+
+pullus 10, 231
+
+pulmentaria 7, 185
+
+pulmo 4, 128
+
+pulmone 6, 549 659
+
+pulmonem 10, 33
+
+pulpita 3, 174. 6, 78. 7, 93.
+8, 195 225. 14, 257
+
+puls 16, 39
+
+pulsandum 5, 171
+
+pulsantis 9, 62
+
+pulsare 6, 612. 16, 8
+
+pulsari 6, 442
+
+pulsas 2, 130. 3, 289
+
+pulsat 6, 193
+
+pulsatus 3, 300
+
+pulsetur 16, 9
+
+pultes 11, 58
+
+pultibus 14, 171
+
+pulvere 7, 48. 10, 37. 11,
+198
+
+pulvinar 6, 132
+
+pulvino 3, 154
+
+pulvis 8, 61
+
+pumice 8, 16. 9, 95
+
+Punica 14, 161
+
+punire 8, 235.l3, 101. 16,13
+
+punit 6, 492
+
+pupilli 1, 47. 6, 629
+
+pupillos 10, 223
+
+pupillum 15, 135
+
+puppe 12, 79. 14, 267
+
+puppim 6, 102
+
+puppis 12, 31
+
+puri 9, 141. 10, 19
+
+purpura 1, 106. 7, 134 135.
+11,155.14,188
+
+purpuream 12, 39
+
+purpureus 4, 31
+
+pusillas 14, 29
+
+pusilli 10, 121
+
+pusillos 15, 70
+
+pusio 6, 34 35
+
+puta 2, 153. 5, 7
+
+putabus 9, 47. 10, 337
+
+5¹53·-
+

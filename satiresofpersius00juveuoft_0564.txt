@@ -1,0 +1,335 @@
+58
+
+palmam 6, 323. 11, 179
+
+palmas 2, 142
+
+palmes 8, 78
+
+palpat 1, 35
+
+palpetur 10, 206
+
+palpitet 3, 134
+
+paludati 6, 400
+
+paludes 10, 276
+
+palum 6, 267
+
+palus 3, 307
+
+pande 1, 150
+
+pandit 10, 194
+
+panditur 14, 327
+
+pane 5, 169. 6, 462. 12,
+
+panem 2, 107. 5, 67. 10,
+81.14,181
+
+panis 1, 120. 10, 200 277.
+14, 128
+
+panisque 5, 75
+
+panni 11, 196. 14, 300
+
+panniculus 6, 260
+
+pannis 8, 96
+
+panno 7, 145
+
+pannosus 10, 102
+
+Pansa 8, 95
+
+papillis 6, 122
+
+pappas 6, 633
+
+papyro 4, 24. 7, 101
+
+par 1, 151. 4, 97. 5, 114.
+7‚96.8‚982l5.10‚98.
+12,4.13,59.15,113
+
+para 9, 135
+
+parabat 10, 105. 14, 88
+
+parabis 14, 55. 15, 129
+
+paranda 7, 66
+
+parant 1, 106
+
+parante 10, 131
+
+parantur 6, 465
+
+parari 8, 213
+
+paras 6, 26. 14, 48
+
+parasiti 14, 46
+
+parasitus 1, 139. 5, 145
+
+parastis 8, 233
+
+parat 6, 608. 8, 130. 14,
+273
+
+parata 6, 207
+
+paratae 6, 245
+
+parati 9, 49. 15, 102. 16,
+
+paratis 6, 16 273
+
+parato 5, 168. 10, 333
+
+paratu 14, 13
+
+paratum 12, 106
+
+paratur 3, 224. 6, 251. 14,
+
+paratus 3, 106. 5, 56. 9,
+7. 13. 108
+
+paravi 6, 639
+
+Pareae 12, 64
+
+parcas 6, 37
+
+VERBALINDEX
+
+paroeat 6, 208. 14, 287
+
+parce 6, 172. 8, 117
+
+parcendum 14, 215
+
+parcere 1, 18. 5, 156
+
+parcetur 14, 246
+
+parcit 15, 159
+
+parcius 6, 546
+
+pareus 14, 112
+
+pardus 8, 36. 11, 123
+
+parente 14, 9
+
+parentem 6, 175. 8, 243.
+14‚210
+
+parentes 6,13. 10, 296 305.
+14, 3
+
+parenti 8, 257
+
+parentis 7, 209. 8, 45 143.
+9, 87. 14, 56
+
+parentum 8, 138
+
+parssre 2, 138
+
+Ρειι·ἕῐε3,290. 5, 64. 10, 339.
+12,107
+
+pares, noun, 3, 104. 15,
+
+pares, verb, 14, 200
+
+paret 11, 21 .
+
+paretur 4, 131
+
+pari 15, 53
+
+pariat 5, 141
+
+paribus 4, 16
+
+paribusque 14, 17
+
+Paridemque 6, 87
+
+Paridi 7, 87
+
+Paris 10, 264
+
+pariter 3, 298. 6, 20 315
+328 349 441576. 9, 109.
+10, 309. 13, 206
+
+parm& 5, 154
+
+paropside 3, 142
+
+Parrhasii 8, 102
+
+pars 1, 26. 3, 171. 5, 8. 8,
+44. 9, 120. 12, 26 52.
+13, 157. 15, 3 73 133
+
+parta 14, 303. 16, 52
+
+partam 10, 116
+
+parte 3, 194. 6, 437. 7, 43
+114 159 182. 10, 213.
+11, 29 72 101. 12, 48.
+13, 136. 14, 131. 15, 85
+
+partem 4, 29.12, 110. 13,
+186. 14, 106
+
+partemque 14, 78
+
+partes 1, 41. 4, 2. 7, 123
+
+Parthenio 12, 44
+
+Parthoque 6, 407
+
+partibus 4, 148. 9, 32
+
+participem 3, 52
+
+particulam 13, 14
+
+particulas 15, 79
+
+partis 10, 209. 14, 94
+
+partitur 3, 121
+
+partos 13, 25
+
+partu 2, 138
+
+partumque 10, 352
+
+ρθῑῐυς, nominative, 6, (326
+
+partus, genitive, 6, 592
+
+parva 1, 96. 6, 184 288·
+12‚87.14,93
+
+parva 6, 564. 7, 28
+
+parvam 8, 33
+
+parvaque 10, 170
+
+parvas 6, 2
+
+parv16‚504.9‚137
+
+parvis 11, 96. 13, 168. 14,
+
+paruit 14, 331
+
+parum 15, 166
+
+parumper 4, 62. 10, 250
+
+parvo 11, 78
+
+parvoque 14, 5
+
+parvos 12, 94
+
+parvula 6, 89. 10, 340. 15,
+
+parvulus 3, 204. 5, 138
+
+parvus 8, 108
+
+pascaris 5, 150
+
+pascendi 9, 67
+
+pascendum 7, 76
+
+pascentis 14, 80
+
+pasci 12, 28
+
+pascit 3, 141
+
+pascitur 9, 136. 12, 105
+
+pascua 9, 55. 12, 13
+
+pascunt 7, 93
+
+passer 6, 8. 9, 54
+
+passi 12, 15
+
+passis 14, 161. 15, 104
+
+passos 10, 181
+
+passum,substantive,14‚271
+
+passurus 14, 314
+
+pastor 8, 275
+
+pastotes 6, 150
+
+pastoribus 2, 127
+
+pastoris 11, 151
+
+pateant 6, 31
+
+patella 5, 85
+
+patellae 10, 64
+
+patellas 3, 261. 6, 344
+
+patens 1, 65
+
+patent 3, 275. 6, 640
+
+pater 2, 126. 6, 51 77 394
+600. 7, 166 239. 8, 109
+269.9,86.10,130.13,
+81 84. 14, 99 105 119
+191 255. 16, 54 56
+
+patere 7, 220
+
+pateris, verb, 13, 9 143
+
+paterna 6, 88
+
+paterni 6, 355
+
+paternis 12, 89
+
+paterno 6, 55 57. 11, 39
+
+patet 2, 89. 3, 150. 10, 364
+
+pathici 2, 99
+
